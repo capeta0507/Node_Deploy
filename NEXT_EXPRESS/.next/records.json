@@ -32,17 +32,20 @@
       "static\\CBn1Nde63Ok8U4J-Zur5x\\pages\\_app.js": 3,
       "static\\CBn1Nde63Ok8U4J-Zur5x\\pages\\_error.js": 4,
       "static\\CBn1Nde63Ok8U4J-Zur5x\\pages\\index.js": 5,
-      "styles": 6
+      "styles": 6,
+      "static\\zHf-oS_roKaL-21oLhQUE\\pages\\_app.js": 7,
+      "static\\zHf-oS_roKaL-21oLhQUE\\pages\\_error.js": 8,
+      "static\\zHf-oS_roKaL-21oLhQUE\\pages\\index.js": 9
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
       2,
-      3,
-      4,
-      5,
-      6
+      6,
+      7,
+      8,
+      9
     ]
   }
 }
