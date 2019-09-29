@@ -1,5 +1,5 @@
 {
-  "mini-css-extract-plugin ../../../Github Project\\Node_Deploy\\NEXT_EXPRESS\\node_modules\\css-loader\\index.js??ref--5-1!../../../Github Project\\Node_Deploy\\NEXT_EXPRESS\\style\\index.css": [
+  "mini-css-extract-plugin ../../../Full Stack\\Node_Deploy\\NEXT_EXPRESS\\node_modules\\css-loader\\index.js??ref--5-1!../../../Full Stack\\Node_Deploy\\NEXT_EXPRESS\\style\\index.css": [
     {
       "modules": {
         "byIdentifier": {},
@@ -18,7 +18,7 @@
   ],
   "modules": {
     "byIdentifier": {
-      "css ../../../Github Project\\Node_Deploy\\NEXT_EXPRESS\\node_modules\\css-loader\\index.js??ref--5-1!../../../Github Project\\Node_Deploy\\NEXT_EXPRESS\\style\\index.css 0": 0
+      "css ../../../Full Stack\\Node_Deploy\\NEXT_EXPRESS\\node_modules\\css-loader\\index.js??ref--5-1!../../../Full Stack\\Node_Deploy\\NEXT_EXPRESS\\style\\index.css 0": 0
     },
     "usedIds": {
       "0": 0
@@ -29,9 +29,9 @@
       "commons": 0,
       "static/runtime/webpack.js": 1,
       "static/runtime/main.js": 2,
-      "static\\rcku1wKy_aQ9gi1pYZ3hU\\pages\\_app.js": 3,
-      "static\\rcku1wKy_aQ9gi1pYZ3hU\\pages\\_error.js": 4,
-      "static\\rcku1wKy_aQ9gi1pYZ3hU\\pages\\index.js": 5,
+      "static\\dgW7WyfeHfaEMzHkRIMse\\pages\\_app.js": 3,
+      "static\\dgW7WyfeHfaEMzHkRIMse\\pages\\_error.js": 4,
+      "static\\dgW7WyfeHfaEMzHkRIMse\\pages\\index.js": 5,
       "styles": 6
     },
     "bySource": {},

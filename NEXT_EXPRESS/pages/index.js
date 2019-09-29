@@ -67,7 +67,7 @@ const Home = () => {
               <div className="col-md-4 col-12" key={idx}>
                 <div className="card mb-3">
                   <h3 className="card-header">{data.name}</h3>
-                  <img className="cardImg" src={`../static/images/${photo}`} alt="Card image" />
+                  <img className="cardImg" src={`./static/images/${photo}`} alt="Card image" />
                   <div className="card-body">
                     <p className="card-text">{data.title}</p>
                   </div>
