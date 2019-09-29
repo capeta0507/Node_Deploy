@@ -15,21 +15,17 @@
   },
   "chunks": {
     "byName": {
-      "static\\CBn1Nde63Ok8U4J-Zur5x\\pages\\_app.js": 0,
-      "static\\CBn1Nde63Ok8U4J-Zur5x\\pages\\_document.js": 1,
-      "static\\CBn1Nde63Ok8U4J-Zur5x\\pages\\_error.js": 2,
-      "static\\CBn1Nde63Ok8U4J-Zur5x\\pages\\index.js": 3,
-      "static\\zHf-oS_roKaL-21oLhQUE\\pages\\_app.js": 4,
-      "static\\zHf-oS_roKaL-21oLhQUE\\pages\\_document.js": 5,
-      "static\\zHf-oS_roKaL-21oLhQUE\\pages\\_error.js": 6,
-      "static\\zHf-oS_roKaL-21oLhQUE\\pages\\index.js": 7
+      "static\\rcku1wKy_aQ9gi1pYZ3hU\\pages\\_app.js": 0,
+      "static\\rcku1wKy_aQ9gi1pYZ3hU\\pages\\_document.js": 1,
+      "static\\rcku1wKy_aQ9gi1pYZ3hU\\pages\\_error.js": 2,
+      "static\\rcku1wKy_aQ9gi1pYZ3hU\\pages\\index.js": 3
     },
     "bySource": {},
     "usedIds": [
-      4,
-      5,
-      6,
-      7
+      0,
+      1,
+      2,
+      3
     ]
   }
 }

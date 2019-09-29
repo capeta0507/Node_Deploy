@@ -1,9 +1,11 @@
 
 [next getting started](https://nextjs.frontendx.cn/docs/#%E7%A6%81%E6%AD%A2%E6%96%87%E4%BB%B6%E8%B7%AF%E7%94%B1)
+
 [NEXTJS中文文档](https://raoenhui.github.io/nextjs/2018/08/31/Nextjs%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/)
+
 [Next.js入门教程](https://www.chkui.com/article/react/nextjs_getting_starting)
 
-建置 next.js 執行環境，如同建置 react ，要注意開發環境、生產環境的差異，以免執行的是測試版本而非做最終版本。
+建置 next.js 執行環境，如同建置 react ，要注意開發環境(development)、生產環境(production)的差異，以免執行的是測試版本而非做最終版本。
 
 重點在於 package.json 的規劃。
 

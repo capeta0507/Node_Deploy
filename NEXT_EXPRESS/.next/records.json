@@ -1,5 +1,5 @@
 {
-  "mini-css-extract-plugin ../../../Full Stack\\Node_Deploy\\NEXT_EXPRESS\\node_modules\\css-loader\\index.js??ref--5-1!../../../Full Stack\\Node_Deploy\\NEXT_EXPRESS\\style\\index.css": [
+  "mini-css-extract-plugin ../../../Github Project\\Node_Deploy\\NEXT_EXPRESS\\node_modules\\css-loader\\index.js??ref--5-1!../../../Github Project\\Node_Deploy\\NEXT_EXPRESS\\style\\index.css": [
     {
       "modules": {
         "byIdentifier": {},
@@ -18,7 +18,7 @@
   ],
   "modules": {
     "byIdentifier": {
-      "css ../../../Full Stack\\Node_Deploy\\NEXT_EXPRESS\\node_modules\\css-loader\\index.js??ref--5-1!../../../Full Stack\\Node_Deploy\\NEXT_EXPRESS\\style\\index.css 0": 0
+      "css ../../../Github Project\\Node_Deploy\\NEXT_EXPRESS\\node_modules\\css-loader\\index.js??ref--5-1!../../../Github Project\\Node_Deploy\\NEXT_EXPRESS\\style\\index.css 0": 0
     },
     "usedIds": {
       "0": 0
@@ -29,23 +29,20 @@
       "commons": 0,
       "static/runtime/webpack.js": 1,
       "static/runtime/main.js": 2,
-      "static\\CBn1Nde63Ok8U4J-Zur5x\\pages\\_app.js": 3,
-      "static\\CBn1Nde63Ok8U4J-Zur5x\\pages\\_error.js": 4,
-      "static\\CBn1Nde63Ok8U4J-Zur5x\\pages\\index.js": 5,
-      "styles": 6,
-      "static\\zHf-oS_roKaL-21oLhQUE\\pages\\_app.js": 7,
-      "static\\zHf-oS_roKaL-21oLhQUE\\pages\\_error.js": 8,
-      "static\\zHf-oS_roKaL-21oLhQUE\\pages\\index.js": 9
+      "static\\rcku1wKy_aQ9gi1pYZ3hU\\pages\\_app.js": 3,
+      "static\\rcku1wKy_aQ9gi1pYZ3hU\\pages\\_error.js": 4,
+      "static\\rcku1wKy_aQ9gi1pYZ3hU\\pages\\index.js": 5,
+      "styles": 6
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
       2,
-      6,
-      7,
-      8,
-      9
+      3,
+      4,
+      5,
+      6
     ]
   }
 }
